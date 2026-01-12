@@ -34,6 +34,7 @@ The project is built using basic web technologies to keep it lightweight, simple
 ```text
 basic-portfolio/
 ├── assets/
+│   ├── documents/
 │   ├── images/
 │   └── videos/
 ├── css/
